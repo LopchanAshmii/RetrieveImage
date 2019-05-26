@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846441411461",
+    "firebase_url": "https://retrieveimage-95ff1.firebaseio.com",
+    "project_id": "retrieveimage-95ff1",
+    "storage_bucket": "retrieveimage-95ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846441411461:android:d03a917d3ecf5d0b",
+        "android_client_info": {
+          "package_name": "com.example.dell.retrieveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846441411461-el5l4rs2cq66b4n8vs1cq73tov6rvs6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.retrieveimage",
+            "certificate_hash": "3251f88d4b7664ac4d87841f4ca37cf37d46083d"
+          }
+        },
+        {
+          "client_id": "846441411461-n89k408lbk6u02mlmm6caglhgud7bd1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyxPUPqaSP1ZO68uSCmpsXZd8btDVA8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846441411461-n89k408lbk6u02mlmm6caglhgud7bd1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
